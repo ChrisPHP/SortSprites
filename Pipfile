@@ -7,3 +7,5 @@ python_version = '3.11'
 
 [packages]
 raylib = "==5.0.0.1"
+perlin_noise = "==1.12"
+numpy = "==1.26.4"
